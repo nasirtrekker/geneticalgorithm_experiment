@@ -2,6 +2,7 @@
 
 
 GA_LR_breastcancer: Applying Genetic algorithm to improve accouracy for Logisitcs regression algorithm on breast cancer data.
+
 GA_ANN_iris.ipynb=  Applying Genetic algorithm for hyper parameter optimization in CNN (Convolational neural network) based on iris dataset
 
 References:
